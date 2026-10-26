@@ -17,6 +17,7 @@ first prototype to production.
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**opspilot**](https://github.com/mohamed-rujhan/opspilot) | Agentic AI operations assistant — answers HR/IT policy questions with cited RAG, raises IT tickets via REST and pauses leave requests for manager approval; guardrails, evals and CI | Python, LangGraph, Gemini, FastAPI, Docker |
 | [**learnloop**](https://github.com/mohamed-rujhan/learnloop) | Online learning platform backend — courses, lessons, enrolments, payments, video uploads, JWT auth (team project) | Java, Spring Boot, MongoDB, Firebase Storage |
 | [**ai-email-manager-n8n**](https://github.com/mohamed-rujhan/ai-email-manager-n8n) | LLM-driven email automation — classifies emails, extracts details, auto-replies and logs to Google Sheets | n8n, Gemini, OpenAI, Gmail API, Google Sheets API |
 
